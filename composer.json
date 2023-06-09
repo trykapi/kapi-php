@@ -1,5 +1,5 @@
 {
-    "name": "kapi/kapi-php",
+    "name": "trykapi/kapi-php",
     "require": {
         "guzzlehttp/guzzle": "^7.7"
     },
