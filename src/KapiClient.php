@@ -5,6 +5,7 @@ namespace Kapi\KapiSdk;
 use Kapi\KapiSdk\Service\LeadService;
 use Kapi\KapiSdk\Service\PaymentMethodService;
 use Kapi\KapiSdk\Service\PaymentPlanService;
+use Kapi\KapiSdk\Service\TransactionService;
 use Kapi\KapiSdk\Service\UserService;
 
 /**
@@ -23,6 +24,7 @@ class KapiClient extends BaseKapiClient
         'leads' => LeadService::class,
         'paymentMethods' => PaymentMethodService::class,
         'paymentPlans' => PaymentPlanService::class,
+        'transactions' => TransactionService::class,
     ];
 
     /**

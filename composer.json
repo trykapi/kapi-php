@@ -8,10 +8,11 @@
             "Kapi\\KapiSdk\\": "src/"
         }
     },
+    "license": "MIT",
     "authors": [
         {
-            "name": "Alexander Agafonov",
-            "email": "7842424@gmail.com"
+            "name": "Kapi and contributors",
+            "homepage": "https://github.com/trykapi/kapi-php/contributors"
         }
     ]
 }
